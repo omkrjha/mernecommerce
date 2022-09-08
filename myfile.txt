@@ -1,0 +1,9 @@
+React-bootstrap
+
+flow of action:-- first ``constants`` then ``reducers`` then import reducer at store.js then create ``actions`` then go to store.js again pass it to state and then implementing that action on the screens.
+
+
+
+// first create backend routes then constants to reducers to actions to store.js to screens
+
+
